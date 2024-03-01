@@ -1,0 +1,4 @@
+C:\Users\bigro\OneDrive\Рабочий стол\НТП\лабораторные вар 7\лаб 2 — перделанная\Model\Model\bin\Release\Model.dll
+C:\Users\bigro\OneDrive\Рабочий стол\НТП\лабораторные вар 7\лаб 2 — перделанная\Model\Model\bin\Release\Model.pdb
+C:\Users\bigro\OneDrive\Рабочий стол\НТП\лабораторные вар 7\лаб 2 — перделанная\Model\Model\obj\Release\Model.dll
+C:\Users\bigro\OneDrive\Рабочий стол\НТП\лабораторные вар 7\лаб 2 — перделанная\Model\Model\obj\Release\Model.pdb

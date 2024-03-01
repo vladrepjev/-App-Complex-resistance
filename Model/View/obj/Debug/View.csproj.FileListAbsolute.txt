@@ -1,0 +1,39 @@
+C:\Users\bigro\OneDrive\Рабочий стол\НТП\лабораторные вар 7\лаб 2\Model\View\bin\Debug\View.exe.config
+C:\Users\bigro\OneDrive\Рабочий стол\НТП\лабораторные вар 7\лаб 2\Model\View\bin\Debug\View.exe
+C:\Users\bigro\OneDrive\Рабочий стол\НТП\лабораторные вар 7\лаб 2\Model\View\bin\Debug\View.pdb
+C:\Users\bigro\OneDrive\Рабочий стол\НТП\лабораторные вар 7\лаб 2\Model\View\obj\Debug\View.csprojResolveAssemblyReference.cache
+C:\Users\bigro\OneDrive\Рабочий стол\НТП\лабораторные вар 7\лаб 2\Model\View\obj\Debug\View.Properties.Resources.resources
+C:\Users\bigro\OneDrive\Рабочий стол\НТП\лабораторные вар 7\лаб 2\Model\View\obj\Debug\View.csproj.GenerateResource.Cache
+C:\Users\bigro\OneDrive\Рабочий стол\НТП\лабораторные вар 7\лаб 2\Model\View\obj\Debug\View.exe
+C:\Users\bigro\OneDrive\Рабочий стол\НТП\лабораторные вар 7\лаб 2\Model\View\obj\Debug\View.pdb
+C:\Users\bigro\OneDrive\Рабочий стол\НТП\лабораторные вар 7\лаб 2\Model\View\bin\Debug\Model.dll
+C:\Users\bigro\OneDrive\Рабочий стол\НТП\лабораторные вар 7\лаб 2\Model\View\bin\Debug\Model.pdb
+C:\Users\bigro\OneDrive\Рабочий стол\НТП\лабораторные вар 7\лаб 2\Model\View\obj\Debug\View.AddForm.resources
+C:\Users\bigro\OneDrive\Рабочий стол\НТП\лабораторные вар 7\лаб 2\Model\View\obj\Debug\View.MainForm.resources
+C:\Users\bigro\OneDrive\Рабочий стол\НТП\лабораторные вар 7\лаб 2\Model\View\obj\Debug\View.SearchFrom.resources
+C:\Users\bigro\OneDrive\Рабочий стол\НТП\лабораторные вар 7\лаб 2 — перделанная\Model\View\bin\Debug\View.exe.config
+C:\Users\bigro\OneDrive\Рабочий стол\НТП\лабораторные вар 7\лаб 2 — перделанная\Model\View\obj\Debug\View.exe
+C:\Users\bigro\OneDrive\Рабочий стол\НТП\лабораторные вар 7\лаб 2 — перделанная\Model\View\obj\Debug\View.pdb
+C:\Users\bigro\OneDrive\Рабочий стол\НТП\лабораторные вар 7\лаб 2 — перделанная\Model\View\obj\Debug\View.csprojResolveAssemblyReference.cache
+C:\Users\bigro\OneDrive\Рабочий стол\НТП\лабораторные вар 7\лаб 2 — перделанная\Model\View\obj\Debug\View.MainForm.resources
+C:\Users\bigro\OneDrive\Рабочий стол\НТП\лабораторные вар 7\лаб 2 — перделанная\Model\View\obj\Debug\View.AddForm.resources
+C:\Users\bigro\OneDrive\Рабочий стол\НТП\лабораторные вар 7\лаб 2 — перделанная\Model\View\obj\Debug\View.Properties.Resources.resources
+C:\Users\bigro\OneDrive\Рабочий стол\НТП\лабораторные вар 7\лаб 2 — перделанная\Model\View\obj\Debug\View.SearchFrom.resources
+C:\Users\bigro\OneDrive\Рабочий стол\НТП\лабораторные вар 7\лаб 2 — перделанная\Model\View\obj\Debug\View.csproj.GenerateResource.Cache
+C:\Users\bigro\OneDrive\Рабочий стол\НТП\лабораторные вар 7\лаб 2 — перделанная\Model\View\bin\Debug\View.exe
+C:\Users\bigro\OneDrive\Рабочий стол\НТП\лабораторные вар 7\лаб 2 — перделанная\Model\View\bin\Debug\View.pdb
+C:\Users\bigro\OneDrive\Рабочий стол\НТП\лабораторные вар 7\лаб 2 — перделанная\Model\View\bin\Debug\Model.dll
+C:\Users\bigro\OneDrive\Рабочий стол\НТП\лабораторные вар 7\лаб 2 — перделанная\Model\View\bin\Debug\Model.pdb
+C:\Users\bigro\OneDrive\Рабочий стол\Лабораторные Вар7\лаб 2\Model\View\bin\Debug\View.exe.config
+C:\Users\bigro\OneDrive\Рабочий стол\Лабораторные Вар7\лаб 2\Model\View\obj\Debug\View.exe
+C:\Users\bigro\OneDrive\Рабочий стол\Лабораторные Вар7\лаб 2\Model\View\obj\Debug\View.pdb
+C:\Users\bigro\OneDrive\Рабочий стол\Лабораторные Вар7\лаб 2\Model\View\bin\Debug\View.exe
+C:\Users\bigro\OneDrive\Рабочий стол\Лабораторные Вар7\лаб 2\Model\View\bin\Debug\View.pdb
+C:\Users\bigro\OneDrive\Рабочий стол\Лабораторные Вар7\лаб 2\Model\View\bin\Debug\Model.dll
+C:\Users\bigro\OneDrive\Рабочий стол\Лабораторные Вар7\лаб 2\Model\View\bin\Debug\Model.pdb
+C:\Users\bigro\OneDrive\Рабочий стол\Лабораторные Вар7\лаб 2\Model\View\obj\Debug\View.csprojResolveAssemblyReference.cache
+C:\Users\bigro\OneDrive\Рабочий стол\Лабораторные Вар7\лаб 2\Model\View\obj\Debug\View.MainForm.resources
+C:\Users\bigro\OneDrive\Рабочий стол\Лабораторные Вар7\лаб 2\Model\View\obj\Debug\View.AddForm.resources
+C:\Users\bigro\OneDrive\Рабочий стол\Лабораторные Вар7\лаб 2\Model\View\obj\Debug\View.Properties.Resources.resources
+C:\Users\bigro\OneDrive\Рабочий стол\Лабораторные Вар7\лаб 2\Model\View\obj\Debug\View.SearchFrom.resources
+C:\Users\bigro\OneDrive\Рабочий стол\Лабораторные Вар7\лаб 2\Model\View\obj\Debug\View.csproj.GenerateResource.Cache
